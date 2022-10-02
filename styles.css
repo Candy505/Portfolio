@@ -6,6 +6,9 @@ body {
     to your card.
     */
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background: url(https://images.unsplash.com/photo-1521911528923-9c3838123490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGRyYXdpbmclMjB3YWxscGFwZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60);
+   
+    
 }
 
 .avatar {
@@ -13,29 +16,84 @@ body {
     border-radius: 80px;
 }
 
-.card {
+.mid-card {
     width: 400px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #fcd5ce;
+
+    background: #ebd4cb;
+    color: #2c0703;
+    border-bottom: 80px solid #da9f93;
+    border-radius: 90px;
+
+   
+    /*
+    Challenge: background: #fcd5ce;
     color: #012a4a;
     border-bottom: 6px solid #8d99ae;
     border-radius: 100px;
-    /*
-    Challenge:
     Find a color palette you like on Coolors.co
     and use it in your business card.
      */
 }
 
+
 .border-blue {
     border: 1px dotted blue;
 }
 
-/*
+.left-card{
+      
+        width: 400px;
+        padding: 30px;
+        text-align: center;
+    
+        background: #ebd4cb;
+        color: #2c0703;
+        border-top: 50px solid #da9f93;
+        border-radius: 90px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        word-spacing: 5;
+        
+        /*
+        Challenge: background: #fcd5ce;
+        color: #012a4a;
+        border-bottom: 6px solid #8d99ae;
+        border-radius: 100px;
+        Find a color palette you like on Coolors.co
+        and use it in your business card.
+         */
+    }
+
+
+
+    .right-card{
+      
+        width: 400px;
+        padding: 30px;
+        text-align: center;
+        background: #ebd4cb;
+        color: #2c0703;
+        border-top: 50px solid #da9f93;
+        border-radius: 90px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        word-spacing: 5;
+       
+    }
+
+    .contain {
+       
+
+        display: flex;
+        justify-content: space-between;
+        margin-top: 40px;
+    
+    }
+/* border-top: 30px solid #766a68;
+    border-bottom: 30px solid #766a68;
 Stretch goals:
 Find other ways you can personalize 
 the design of your business card, e.g.:
@@ -47,3 +105,19 @@ the design of your business card, e.g.:
 - animations     🤯🤯🤯
 */
 
+/*
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ebd4cb;
+    color: #2c0703;
+    border-bottom: 20px solid #da9f93;
+    border-radius: 100px;
+}
+
+
+    background: #4c0513;
