@@ -6,7 +6,7 @@ body {
     to your card.
     */
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background: url(https://images.unsplash.com/photo-1521911528923-9c3838123490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGRyYXdpbmclMjB3YWxscGFwZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60);
+    background: url("https://media.giphy.com/media/26vUucK24XyuAy9a0/giphy.gif");
    
     
 }
@@ -43,8 +43,9 @@ body {
     color: #2c0703;
     border-bottom: 80px solid #da9f93;
     border-radius: 90px;
-     */
-}
+     https://images.unsplash.com/photo-1521911528923-9c3838123490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGRyYXdpbmclMjB3YWxscGFwZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60
+*/
+    }
 
 
 .border-blue {
