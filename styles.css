@@ -58,8 +58,8 @@ body {
         padding: 30px;
         text-align: center;
     
-        background: #edeadd;
-        color: #1b1717;
+        background: #0a0a0a;
+        color: #f3f0f0;
         border-top: 50px solid #fca311;
         border-radius: 90px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -82,9 +82,9 @@ body {
         width: 400px;
         padding: 30px;
         text-align: center;
-        background: #ebd4cb;
-        color: #2c0703;
-        border-top: 50px solid #6a040f;
+        background: #141414;
+        color: #faf6f6;
+        border-top: 50px solid #fca311;
         border-radius: 90px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         word-spacing: 5;
